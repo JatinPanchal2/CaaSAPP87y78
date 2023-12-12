@@ -1,0 +1,8 @@
+site_name: "ReactApp"
+site_description: "create CaaS App"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
